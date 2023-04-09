@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+li {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Roboto';
+}
+.c1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.h1 {
+  color: #12022f;
+  font-size: 18px;
+}
+.p1 {
+  color: #9aa5b1;
+  font-size: 13px;
+}
+.p2 {
+  color: #9aa5b1;
+  font-size: 13px;
+}
